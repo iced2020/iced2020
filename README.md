@@ -58,15 +58,15 @@ Interested in all electronic products!
 
 🧰 Common tools
 
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Apple Badge](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![MacOS Badge](https://img.shields.io/badge/MacOS-E2231A?logo=macos&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Xcode Badge](https://img.shields.io/badge/Xcode-5C2D91?logo=xcode&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=for-the-badge)
+![Apple Badge](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=fff&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![MacOS Badge](https://img.shields.io/badge/MacOS-E2231A?logo=macos&logoColor=fff&style=for-the-badge)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)
+![Xcode Badge](https://img.shields.io/badge/Xcode-5C2D91?logo=xcode&logoColor=fff&style=for-the-badge)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
