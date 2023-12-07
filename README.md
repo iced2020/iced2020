@@ -24,30 +24,49 @@ Here are some ideas to get you started:
 - **We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
 
 ### Rapidfire
-- 🔭 I’m currently working on Redrock
+- 🔭 I’m currently working on Redrock Student Organization
 - 🌱 I’m currently learning iOS development
-- 📫 How to reach me: panshenbing@outlook.com/panshenbing@redrock.team
+- 📫 How to reach me:
+  - Email:panshenbing@outlook.com/panshenbing@redrock.team
 - ❓ Ask me about anything related to iOS and related technologies
-- ⚡ Fun fact: I keep night shift swithed on at all times
+- ⚡ Fun fact: I keep the night shift switched on at all times
+
+### 💪 Learning
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![Object_C Badge](https://img.shields.io/badge/Object_C-6DB33F?logo=c&logoColor=fff&style=for-the-badge)
+![Swift Badge](https://img.shields.io/badge/Swift-41CD52?logo=swift&logoColor=fff&style=for-the-badge)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-3776AB?logo=docker&logoColor=fff&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-47A248?logo=mysql&logoColor=fff&style=for-the-badge)
+![Git Badge](https://img.shields.io/badge/Git-092E20?logo=git&logoColor=fff&style=for-the-badge)
+  
+### 🧠 计划学习
+
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+### 🌱 Some other things interested
+
+Interested in all electronic products!
+
+🧰 Common tools
+
+![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
+![Apple Badge](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![MacOS Badge](https://img.shields.io/badge/MacOS-E2231A?logo=macos&logoColor=fff&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Xcode Badge](https://img.shields.io/badge/Xcode-5C2D91?logo=xcode&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
-
-### The current commonly used
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-  
-
-🌱 Some other things interested
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
- 
