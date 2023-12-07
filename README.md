@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I keep the night shift switched on at all times
 
 ### 💪 Learning
+![iOS Badge](https://img.shields.io/badge/iOS-00599C?logo=ios&logoColor=fff&style=for-the-badge)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 ![Object_C Badge](https://img.shields.io/badge/Object_C-6DB33F?logo=c&logoColor=fff&style=for-the-badge)
 ![Swift Badge](https://img.shields.io/badge/Swift-41CD52?logo=swift&logoColor=fff&style=for-the-badge)
